@@ -1,0 +1,13 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+}
+.text {
+    font-size: 90px;
+}
+.img {
+    max-height: 800px;
+}
+.img img {
+    width: 50%;
+}
