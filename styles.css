@@ -1,13 +1,17 @@
 .main-container {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 .text {
-    font-size: 90px;
+  font-size: 90px;
 }
 .img {
-    max-height: 800px;
+  max-height: 800px;
 }
-.img img {
-    width: 100%;
+
+.walle {
+  width: 200px;
+  display: flex;
+  justify-content: center;
 }
+
