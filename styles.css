@@ -8,12 +8,10 @@
 .img {
   max-height: 800px;
 }
-.img img {
-  width: 50%;
-}
 
 .walle {
   width: 200px;
   display: flex;
   justify-content: center;
 }
+
